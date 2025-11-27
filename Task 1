@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task 1</title>
+    
+    <style>
+        h1{
+            text-align: center;
+        }
+        p{
+            color:darkgray;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome To Web Devlopment</h1>
+    <p>
+        Web development is a broad term for the work involved in developing a web site for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web-based internet applications, electronic businesses, and social network services.
+    </p>
+    <p>
+        A web developer is a programmer who specializes in, or is specifically engaged in, the development of World Wide Web applications using a client–server model. The web developer may also be involved in web design, web content development, client liaison, client-side/server-side scripting, web server and network security configuration, and e-commerce development.
+    </p>
+</body>
+</html>
